@@ -19,6 +19,7 @@
     "ScrollBar.hoverThumbColor": "#747d9180",
     "Plugins.Tab.hoverBackground": "#2f3645",
     "Menu.separatorColor": "#343a45",
+    "PopupMenuSeparator.height": 1,
     "Menu.background": "#252a36",
     "Menu.foreground": "#abb2bf",
     "Menu.borderColor": "uiBG",
