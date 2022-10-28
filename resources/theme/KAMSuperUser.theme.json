@@ -35,6 +35,9 @@
     "EditorTabs.inactiveColoredFileBackground": "#1b1e27",
     "EditorTabs.underlinedTabBackground": "#252a36",
     "EditorTabs.underlinedTabForeground": "#dcdcdc",
-    "Editor.SearchField.background": "#252a36"
+    "Editor.SearchField.background": "#252a36",
+    "TitlePane.background": "#80E0A7",
+    "TitlePane.inactiveBackground": "#80E0A7",
+    "TitlePane.infoForeground": "uiBG"
   }
 }
