@@ -6,6 +6,10 @@
     "uiBG": "#3A4254"
   },
   "ui": {
+    "*": {
+      "background": "#80E0A7",  // Addresses status bar
+      "foreground": "#252a36"
+    },
     "Panel.foreground": "#B4B4B4",
     "Panel.background": "uiBG",
     "TitlePane.background": "uiBG",
